@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9O2K4dYx3+w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bumbl\\Documents\\GitHub\\AtYourCreate\\AtYourCreate\\AtYourCreate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bumbl\\.nuget\\packages\\raylib-cs\\7.0.2\\raylib-cs.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
