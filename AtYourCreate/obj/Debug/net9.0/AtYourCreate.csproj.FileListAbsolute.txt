@@ -24,3 +24,5 @@ C:\Users\bumbl\Documents\GitHub\AtYourCreate\AtYourCreate\obj\Debug\net9.0\AtYou
 C:\Users\bumbl\Documents\GitHub\AtYourCreate\AtYourCreate\bin\Debug\net9.0\resources\Icon_logo\Splash.kra
 C:\Users\bumbl\Documents\GitHub\AtYourCreate\AtYourCreate\bin\Debug\net9.0\resources\Icon_logo\Splash.kra~
 C:\Users\bumbl\Documents\GitHub\AtYourCreate\AtYourCreate\bin\Debug\net9.0\resources\Icon_logo\Splash.png
+C:\Users\bumbl\Documents\GitHub\AtYourCreate\AtYourCreate\bin\Debug\net9.0\resources\Icon_logo\.Splash.kra-autosave.kra
+C:\Users\bumbl\Documents\GitHub\AtYourCreate\AtYourCreate\bin\Debug\net9.0\resources\Icon_logo\Splash_ldless.png
